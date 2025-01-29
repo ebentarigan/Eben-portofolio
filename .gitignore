@@ -1,0 +1,8 @@
+# Folder node_modules (jangan di-push)
+node_modules/
+# File konfigurasi editor (Opsional)
+.vscode/
+.idea/
+# File environment (Kalau ada)
+.env
+.env.local
